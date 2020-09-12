@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "739b940a1c5f622c56d2417cb41cd467",
+    "revision": "58c6470432d415d8fd2390835426e0d6",
     "url": "/yogeshwer77/BusinessSite.git/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yogeshwer77/BusinessSite.git/static/css/2.ea6b7726.chunk.css"
   },
   {
-    "revision": "03a01adef99647b3efb2",
+    "revision": "3e8fa27550826aa653fd",
     "url": "/yogeshwer77/BusinessSite.git/static/css/main.98ca4d96.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yogeshwer77/BusinessSite.git/static/js/2.c97ce742.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "03a01adef99647b3efb2",
-    "url": "/yogeshwer77/BusinessSite.git/static/js/main.9e2f6917.chunk.js"
+    "revision": "3e8fa27550826aa653fd",
+    "url": "/yogeshwer77/BusinessSite.git/static/js/main.8335c664.chunk.js"
   },
   {
     "revision": "122bf9be0481c2f78bed",

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/yogeshwer77/BusinessSite.git/static/css/main.98ca4d96.chunk.css",
-    "main.js": "/yogeshwer77/BusinessSite.git/static/js/main.9e2f6917.chunk.js",
-    "main.js.map": "/yogeshwer77/BusinessSite.git/static/js/main.9e2f6917.chunk.js.map",
+    "main.js": "/yogeshwer77/BusinessSite.git/static/js/main.8335c664.chunk.js",
+    "main.js.map": "/yogeshwer77/BusinessSite.git/static/js/main.8335c664.chunk.js.map",
     "runtime-main.js": "/yogeshwer77/BusinessSite.git/static/js/runtime-main.8398b413.js",
     "runtime-main.js.map": "/yogeshwer77/BusinessSite.git/static/js/runtime-main.8398b413.js.map",
     "static/css/2.ea6b7726.chunk.css": "/yogeshwer77/BusinessSite.git/static/css/2.ea6b7726.chunk.css",
     "static/js/2.c97ce742.chunk.js": "/yogeshwer77/BusinessSite.git/static/js/2.c97ce742.chunk.js",
     "static/js/2.c97ce742.chunk.js.map": "/yogeshwer77/BusinessSite.git/static/js/2.c97ce742.chunk.js.map",
     "index.html": "/yogeshwer77/BusinessSite.git/index.html",
-    "precache-manifest.3fe8c5f195b44385cc51695f13773a6d.js": "/yogeshwer77/BusinessSite.git/precache-manifest.3fe8c5f195b44385cc51695f13773a6d.js",
+    "precache-manifest.134ca4a1585e96023617d59b7fa291b8.js": "/yogeshwer77/BusinessSite.git/precache-manifest.134ca4a1585e96023617d59b7fa291b8.js",
     "service-worker.js": "/yogeshwer77/BusinessSite.git/service-worker.js",
     "static/css/2.ea6b7726.chunk.css.map": "/yogeshwer77/BusinessSite.git/static/css/2.ea6b7726.chunk.css.map",
     "static/css/main.98ca4d96.chunk.css.map": "/yogeshwer77/BusinessSite.git/static/css/main.98ca4d96.chunk.css.map",
@@ -28,6 +28,6 @@
     "static/css/2.ea6b7726.chunk.css",
     "static/js/2.c97ce742.chunk.js",
     "static/css/main.98ca4d96.chunk.css",
-    "static/js/main.9e2f6917.chunk.js"
+    "static/js/main.8335c664.chunk.js"
   ]
 }
